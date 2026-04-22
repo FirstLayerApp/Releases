@@ -4,11 +4,7 @@ Hier findest du die aktuellen Builds, ältere Versionen sowie alle Änderungen (
 
 ## 📥 Download
 - Lade dir einfach die neueste Version aus dem Bereich Releases herunter:
-- ➡️ rechts auf → Releases → neueste Version auswählen → .exe herunterladen und starten
-
-💡 **Hinweis:**
-- Windows kann beim ersten Start eine Sicherheitswarnung anzeigen („Unbekannter Herausgeber“).
-- Das ist normal bei neuen Apps ohne verbreitetes Code Signing.
+- ➡️ rechts auf → Releases → neueste Version auswählen → .exe herunterladen
 
 ## ⚡ Installation**
 - .exe herunterladen
@@ -16,6 +12,11 @@ Hier findest du die aktuellen Builds, ältere Versionen sowie alle Änderungen (
 - Setup durchlaufen
 - FirstLayer starten
 - Keine zusätzlichen Abhängigkeiten notwendig.
+
+💡 **Hinweis:**
+- Windows kann beim ersten Start eine Sicherheitswarnung anzeigen („Unbekannter Herausgeber“).
+- Das ist normal bei neuen Apps ohne verbreitetes Code Signing.
+
 
 ## 🔄 Updates
 - Updates passieren bereits als Auto-update über die App. 
